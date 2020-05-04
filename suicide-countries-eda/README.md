@@ -1,5 +1,5 @@
 
-### **DATASET: Suicide Rates Overview 1985 to 2016**
+# **Suicide Rates Overview 1985 to 2016**
 
 In this project I tried to answer the questions below:
 
